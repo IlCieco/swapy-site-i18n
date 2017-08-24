@@ -1,0 +1,25 @@
+{
+  "team": {
+    "title": "Swapy Team",
+    "edTitle": "CEO",
+    "tulioTitle": "CTO",
+    "brunaTitle": "COO",
+    "plinioTitle": "Lead Designer",
+    "victorTitle": "Financial Analyst",
+    "biancaTitle": "Financial Analyst",
+    "adrielTitle": "Full-Stack Developer",
+    "edDescription": "CEO & Co-founder. Graduated in Business Administration at UFPE. Project Management course at Harvard. Innovation course at Stanford and Draper University. Former Google employee and serial entrepreneur.",
+    "tulioDescription": "CTO & Co-founder. Master student in Computer Science (UFMG). Graduated in Computer Engineering (CEFET-MG). Exchange student at The College of New Jersey. Innovation course at Stanford University.",
+    "plinioDescription": "Lead Designer & Co-founder. Graduated in Design at Universidade Federal de Minas Gerais, UFMG. Studied Design at Karelia University of Applied Sciences, Finland. Graduated as Electronics Technician at CEFET-MG.",
+    "brunaDescription": "Economist and Post Graduation in Controllership, also serves as Counselor of the Regional Council of Economy. She was a substitute professor of Economics at the Federal University of Pernambuco (UFPE) for 2 years. 12 years of experience in retail, business management and financial consulting.",
+    "victorDescription": "Graduating in Business Administration at UFRPE. Organizational Consultant for INCUBATIC. Student of Project Management course by VEDUCA. Incentive of the entrepreneurial ecosystem in Recife and Organizer of events focused on entrepreneurial empowerment.",
+    "biancaDescription": "Graduating in Business Administration at Universidade Catolica de Pernambuco, PUC-PE. Experience working with finances in a big Multinational Company.",
+    "adrielDescription": "Graduated as Computing Technician at CEFET-MG. Skills Without Borders exchange student at Bournemouth and Poole College, United Kingdom."
+  },
+  "investors": {
+    "title": "Investors"
+  },
+  "mentors": {
+    "title": "Mentors"
+  }
+}

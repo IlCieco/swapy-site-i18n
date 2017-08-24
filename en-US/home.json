@@ -1,0 +1,48 @@
+{
+  "section1": {
+    "headline": "<b>The Solution</b> for <b>Universal Access to Credit</b>"
+  },
+  "section2": {
+    "headline": "<b>Swapy ICO</b> Countdown",
+    "presale": "Pre-sale through SAFTs starts on September 15th",
+    "crowdsale": "Crowdsale starts on <b>October 24th, 2017</b>",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "section3": {
+    "headline": "Subscribe for updates",
+    "inputPlaceholder": "Enter your Email",
+    "buttonText": "Subscribe"
+  },
+  "section4": {
+    "headline": "This is <b>our dream for a future</b> enabled by <b>Swapy Network</b>: <b>A world of efficient credit markets</b>, with no barriers to entry for new players, where consumers have the power and reap the benefits of <b>Universal Access to Credit.</b>",
+    "exchange": "Swapy Exchange",
+    "exchangeDescription": "Swapy Exchange connects international investors from countries where the interest rates are lower to credit companies in countries where the interest rates are much higher, providing better returns to the first and lower cost capital for the latter.",
+    "finId": "Swapy Financial ID",
+    "finIdDescription": "Swapy Financial ID empower individuals, giving them the right to a worldwide financial identity that is valid anywhere in the world at anytime.",
+    "dataMarket": "Swapy DataMarket",
+    "dataMarketDescription": "Swapy DataMarket transforms user's financial data into value for the data owners. Now, individuals will hold their own data and choose how much tokens they receive in exchange for it, when they want to share, and for whom."
+  },
+  "section5": {
+    "headline": "<b>Swapy Network</b> is a <b>decentralized platform</b> that aims to provide <b>Universal Access to Credit.</b>"
+  },
+  "section6": {
+    "headline": "<b>Token</b> Circular Economy"
+  },
+  "section7": {
+    "headline": "Sale <b>Summary</b>",
+    "title1": "Swapy Token price",
+    "text1": "The price of Swapy Tokens at the time of the Token Launch will be pegged to the price of the Ether in the following proportion:",
+    "subtext1": "For security reasons, all investments will be received in Ethers",
+    "title2": "Initial Coin Offering Percentage",
+    "title3": "Economics",
+    "text3": "It is important to emphasize that for the Credit Dream´s stockholders (which includes founders, employees, investors and advisors) and for the partners, there will be a mandatory vesting period of 3 years, with 1 year cliff.",
+    "years": "years",
+    "year": "year"
+  },
+  "section8": {
+    "headline": "Press"
+  }
+}

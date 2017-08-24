@@ -1,0 +1,48 @@
+{
+  "section1": {
+    "headline": "<b>A Solução</b> para o <b>Acesso Universal ao Crédito</b>"
+  },
+  "section2": {
+    "headline": "Contagem regressiva para o <b>ICO do Swapy</b>",
+    "presale": "Pré-vendas através de SAFTs iniciam em 15 de Setembro de 2017",
+    "crowdsale": "Vendas gerais iniciam em <b>24 de Outubro de 2017</b>",
+    "days": "Dias",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos"
+  },
+  "section3": {
+    "headline": "Inscreva-se para atualizações",
+    "inputPlaceholder": "Informe seu e-mail",
+    "buttonText": "Inscrever"
+  },
+  "section4": {
+    "headline": "Este é o <b>nosso sonha para um futuro</b> construído pela <b>Swapy Network</b>: <b>Um mundo de mercados de crédito eficientes</b>, sem barreiras de entrada para novos atores, onde os consumidores tem poder e colhem os benefícios do <b>Acesso Universal ao Crédito.</b>",
+    "exchange": "Swapy Exchange",
+    "exchangeDescription": "Swapy Exchange conecta investidores internacionais de países onde o juros é baixo a empresa de crédito em países onde o juros é mais alto, provendo melhores retornos aos primeiros e um capital de custo mais baixo aos últimos.",
+    "finId": "Swapy Financial ID",
+    "finIdDescription": "Swapy Financial ID empodera os indivíduos dando a eles o direito a uma identidade financeira válida mundialmente de forma instantânea.",
+    "dataMarket": "Swapy DataMarket",
+    "dataMarketDescription": "Swapy DataMarket transforma os dados financeiros do usuário em valor para eles próprios. A partir de agora, indivíduos possuem seus próprios dados e decidem quantos tokens eles recebem em troca por eles, quando desejam compartilhá-los e com quem."
+  },
+  "section5": {
+    "headline": "<b>Swapy Network</b> é uma <b>plataforma descentralizada</b> que busca proporcionar o <b>Acesso Universal ao Crédito.</b>"
+  },
+  "section6": {
+    "headline": "Economia Circular do <b>Token</b>"
+  },
+  "section7": {
+    "headline": "Resumo do <b>ICO</b>",
+    "title1": "Preço do Swapy Token",
+    "text1": "O preço dos Swapy Tokens no momento do lançamento será fixado a uma quantidade de Ethers na seguinte proporção:",
+    "subtext1": "Por questões de segurança, todos os investimentos serão recebidos em Ethers",
+    "title2": "Distribuição do Initial Coin Offering",
+    "title3": "Economia",
+    "text3": "É importante enfatizar que para os stockholder do Credit Dream (que inclui fundadores, colaboradores, investidores e mentores) e parceiros existirá um período obrigatório de vesting de 3 anos, com 1 ano de cliff.",
+    "years": "anos",
+    "year": "ano"
+  },
+  "section8": {
+    "headline": "Mídia"
+  }
+}

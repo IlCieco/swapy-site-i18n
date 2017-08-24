@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "how": "How it works",
+    "team": "Team",
+    "contact": "Talk with us",
+    "token": "Token",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "joinSlack": "Join us on Slack"
+  },
+  "subscribe": {
+    "call": "Subscribe for updates",
+    "action": "Subscribe",
+    "enterEmail": "Enter your Email"
+  }
+}
