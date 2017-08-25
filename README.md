@@ -8,12 +8,12 @@ To contribute, you should fork this repository to your own account, create or im
 Each language directory is organized as bellow:
 
     \layouts
-    ..\layout.json ------- contains texts related to the website layout
+    .... layout.json -------- contains texts related to the website layout
     \partials
-    ..talk-to-us.json ---- contains texts related to talk to us section
-    contact.json --------- contains texts related to contact page
-    home.json ------------ contains texts related to home/index page
-    team.json ------------ contains texts related to team page
+    .... talk-to-us.json ---- contains texts related to talk to us section
+    contact.json ------------ contains texts related to contact page
+    home.json --------------- contains texts related to home/index page
+    team.json --------------- contains texts related to team page
 
 You should create or modify the folder that represents the locale/language you are working for. For example, if you would like to create the translations for Japanese, you should use ja-JP as the language folder name. Please, use [this link](https://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx) as a reference to language codes.
 
