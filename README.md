@@ -19,4 +19,4 @@ You should create or modify the folder that represents the locale/language you a
 
 To visualize the texts keys in the website, you can use the 'guide' folder as a reference. It follows the same pattern as the language folders and contains a picture for each of these parts (layout, talk-to-us, contact, home and team).
 
-### We appreciate your help to spread the word to as many languages as we can! Thanks!
+### We appreciate your help to spread the word in as many languages as we can! Thanks!
