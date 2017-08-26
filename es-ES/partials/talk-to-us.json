@@ -1,13 +1,13 @@
 {
-  "talk": {
-    "title1": "Swapy Exchange",
-    "title2": "Swapy Financial ID",
-    "title3": "Swapy DataMarket",
-    "description1": "Swapy Exchange proporciona una manera innovadora de conectar el dinero inteligente con las economías emergentes, jugando un papel importante en el desarrollo del mundo".,
-    "description2": "Swapy Financial ID crea una identidad financiera universal para individuos y organizaciones, válida en todo el mundo.",
-    "description3": "Swapy DataMarket proporciona una gran fuente de datos financieros donde las personas tienen los derechos y cosechan el valor de sus propios datos.",
-    "question": "<b> ¿Quieres ser parte </b> de la <b> Revolución del Crédito? </b>",
-    "answer": "Habla con nosotros y descubre cómo",
-    "withUs": "Habla con nosotros"
+  "talk":{
+    "title1":"Swapy Exchange",
+    "title2":"Swapy Financial ID",
+    "title3":"Swapy DataMarket",
+    "description1": "Swapy Exchange proporciona una manera innovadora de conectar el dinero inteligente con las economías emergentes, jugando un papel importante en el desarrollo del mundo.",
+    "description2": "Swapy Financial ID crea una identidad financiera universal para individuos y organizaciones, válida en todo el mundo.",
+    "description3":"Swapy DataMarket proporciona una gran fuente de datos financieros donde las personas tienen los derechos y cosechan el valor de sus propios datos.",
+    "question":"<b>¿Quieres ser parte</b> de la <b>Revolución del Crédito?</b>",
+    "answer":"Habla con nosotros y descubre cómo",
+    "withUs":"Habla con nosotros"
   }
 }
