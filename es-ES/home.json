@@ -19,9 +19,9 @@
   "section4": {
     "headline": "This is <b>our dream for a future</b> enabled by <b>Swapy Network</b>: <b>A world of efficient credit markets</b>, with no barriers to entry for new players, where consumers have the power and reap the benefits of <b>Universal Access to Credit.</b>",
     "headline": "Este es <b>nuestro sueño para un futuro</b> habilitado por <b>Swapy Network</b>: <b>Un mundo de mercados de crédito eficientes</b>, sin barreras de acceso a la red para los nuevos jugadores, donde los consumidores tienen el poder y obtener los beneficios de <b>Acceso Universal al Crédito.</b> ",
-    "eschange": "intercambio de Swapy",
+    "exchange": "Swapy Exchange",
     "exchangeDescription": "Swapy Exchange conecta a inversionistas internacionales de países donde las tasas de interés son más bajas a las compañías de crédito en países donde las tasas de interés son mucho más altas, proporcionando mejores rendimientos al capital de primer y menor costo para este último",
-    "finId": "ID financiero de Swapy",
+    "finId": "Swapy Financial ID",
     "finIdDescription": "Swapy Financial ID permite a los individuos, dándoles el derecho a una identidad financiera mundial que sea válida en cualquier parte del mundo en cualquier momento.",
     "dataMarket": "Swapy DataMarket",
     "dataMarketDescription": "Swapy DataMarket transforma los datos financieros del usuario en valor para los propietarios de los datos, ahora los individuos tendrán sus propios datos y elegirán cuántos fichas recibirán a cambio, cuando quieran compartir y para quién."
@@ -44,6 +44,6 @@
     "year": "año"
   },
   "section8": {
-    "title": "Presionar"
+    "headline": "Prensa"
   }
 }
