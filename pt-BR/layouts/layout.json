@@ -9,6 +9,9 @@
   "footer": {
     "joinSlack": "Junte-se a nós no Slack"
   },
+  "footer2": {
+    "compliance": "Somos obcecados por Conformidade: Contamos com conselho legal nos EUA (Ryan David Williams), no Brasil (HCO Law) e no Cryptovalley (MME). Tomamos o cuidado de mapear os riscos legais e nos proteger legalmente antes de propor uma rede de Swapy."
+  },
   "subscribe": {
     "call": "Inscreva-se para atualizações",
     "action": "Inscreva-se",

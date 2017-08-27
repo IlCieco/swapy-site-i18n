@@ -9,6 +9,9 @@
   "footer": {
     "joinSlack": "Join us on Slack"
   },
+  "footer2": {
+    "compliance": "We are obsessed with Compliance: We have legal counsel in the USA (Ryan David Williams), Brazil (HCO Law) and Cryptovalley (MME). We take care of mapping the legal risks and protecting ourselves legally before proposing Swapy network."
+   },
   "subscribe": {
     "call": "Subscribe for updates",
     "action": "Subscribe",
