@@ -8,13 +8,17 @@
     "victorTitle": "Analista Financeiro",
     "biancaTitle": "Analista Financeiro",
     "adrielTitle": "Full-Stack Developer",
+    "luisTitle": "Full-Stack Developer",
+    "icaroTitle": "Full-Stack Developer",
     "edDescription": "CEO & Co-founder. Graduado em Administração de Empresas (UFPE). Curso de Gerência de Projetos em Harvard. Curso de Inovação em Stanford e na Draper University. Ex-funcionário da Google e empreendedor serial.",
     "tulioDescription": "CTO & Co-founder. Graduado em Engenharia de Computação (CEFET-MG). Defende seu mestrado em Ciência da Computação (UFMG). Intercâmbio de Empreendedorismo e Computação no The College of New Jersey. Curso de Inovação em Stanford University.",
     "plinioDescription": "Lead Designer & Co-founder. Graduado em Design na Universidade Federal de Minas Gerais (UFMG). Intercâmbio na Karelia University of Applied Sciences, Finlândia. Técnico em Eletrônica pelo CEFET-MG.",
     "brunaDescription": "Economista e pós-graduada em Controladoria, também serve como Conselheira no Conselho Regional de Economia. Foi professora substituta de Economia na UFPE por 2 anos. 12 anos de experiência em varejo, gestão e consultoria financeira.",
     "victorDescription": "Graduando em Administração de Empresas (UFRPE). Consultor organizacional na INCUBATIC. Curso de Gerência de Projetos (VEDUCA). Incentivador do empreendedorismo no ecossistema de Recife e organizador de eventos com foco no empoderamento do empreendedorismo.",
     "biancaDescription": "Graduando em Administração de Empresas pela Pontifícia Universidade Catolica de Pernambuco (PUC-PE). Trabalhou na área de finanças em uma multinacional.",
-    "adrielDescription": "Técnico em Computação pelo CEFET-MG. Intercâmbio na Bournemouth and Poole College, Reino Unido pelo programa Skills Without Borders."
+    "adrielDescription": "Técnico em Computação pelo CEFET-MG. Intercâmbio na Bournemouth and Poole College, Reino Unido pelo programa Skills Without Borders.",
+    "luisDescription": "Graduando em Engenharia Mecânica (UFMG). Técnico em Redes de Computadores pelo CEFET-MG. Gosto por desenvolvimento web e ideias empreendedoras.",
+    "icaroDescription": "Graduando em Sistemas de Informação pela UFMG. Técnico em Redes de Computadores pelo CEFET-MG. Apaixonado por empreendedorismo e desenvolvimento de software."
   },
   "investors": {
     "title": "Investidores"
