@@ -1,0 +1,46 @@
+{
+  "faq": {
+    "title": "FAQ",
+    "question1": "1. ¿Qué es un ICO?",
+    "question2": "2. ¿Qué es un Swapy Token?",
+    "question3": "3. ¿Qué es Swapy Network?",
+    "question4": "4. ¿Es Swapy Token una inversión?",
+    "question5": "5. ICO versus IPO: ¿Cuál es la diferencia entre ellos?",
+    "question6": "6. ¿Cómo puedo comprar Swapy Tokens?",
+    "question7": "7. ¿Cuál es la ventaja de comprar en preventa",
+    "question8": "8. Si compro Swapy Tokens, ¿cuándo puedo venderlos?",
+    "question9": "9. Los Tokens son acciones de la compañía?",
+    "question10": "10. ¿Por qué debo comprar Swapy Tokens?",
+    "answer1": "ICO es una sigla para Initial Coin Offering. Los ICOs son una excelente herramienta para que proyectos innovadores y potenciales puedan captar recursos para la ejecución a través del lanzamiento de una nueva criptomeda. Generalmente, proyectos que utilizan la tecnología de Blockchain, lanzan una moneda digital con características propias y las ponen a la venta. El objetivo de esto es involucrar a toda una comunidad de primeros usuarios que creen en el potencial disruptivo del proyecto.",
+    "answer2": "Swapy Token (ERC20) es una criptomía lanzada para el proyecto Swapy.Network, que tiene como objetivo proveer el acceso universal al crédito. Swapy Token permite construir un ecosistema financiero alrededor de los servicios ofrecidos, garantizando el acceso a la red por los propietarios de tokens. Todos los servicios ofrecidos en Swapy.Network tienen como moneda de acceso el Swapy Token.",
+    "answer3": "Swapy Network es una red colaborativa donde las entidades de la rama financiera e individuos pueden interactuar directamente por servicios como crédito, inversiones, seguros o incluso disponibilización de sus propios datos a cambio de tokens. A través del Swapy Network, usted tendrá acceso al Swapy Exchange, Swapy Financial ID y Swapy DataMarket, además de otros servicios que puedan ser agregados a la red en el futuro.",
+    "answer4": "La demanda de Swapy Tokens puede influir en su variación de precio, pudiendo ser positiva o negativa. Se espera que con el éxito de la red, el token tenga valorización. Esto es una ventaja interesante para los primeros usuarios que adopten la plataforma. Sin embargo, el Swapy Token no debe ser comprado con la expectativa cierta o promesa de lucro, ya que no se caracteriza como inversión similar a acciones, debentures, títulos de renta fija o derivados. Token no sigue un benchmarking dirigido, es decir, no persigue cargos oficiales o rendimiento de índices de mercado financiero. De esta forma, no representa acciones de la empresa, no distribuirá beneficios o dividendos. La finalidad del token es ser un medio de intercambio común al facilitar el pago por los servicios de personas u organizaciones que interactúan en la plataforma del Swapy Network.",
+    "answer5": "Actualmente, las grandes empresas abren capital, es decir, hacen IPO (Initial Public Offering) de sus acciones. En el caso de las IPOs, el negocio en cuestión ya está validado y establecido comercialmente, necesitando sólo más capital para expandirse en el mercado, a través de Becas, parte de sus acciones a otras personas o instituciones que no son los socios / fundadores originales, en la velocidad deseada.",
+    "answer5a": "Por otro lado, los ICOs funcionan de manera inversa. Generalmente, proyectos de blockchain en etapa inicial, pero con gran potencial tecnológico, social y transformador, ofrecen parte de sus criptomedas para financiar su ejecución. Por lo tanto, el ICO no debe ser visto como inversión ni ser asociado al IPO.",
+    "answer6": "Hay dos fases principales, el presale que se inicia el 15 de septiembre y el crowdsale que se inicia el 24 de octubre. En ambas etapas, individuos o entidades interesadas deben intercambiar la cantidad correspondiente de Ether (ETH) por la cantidad deseada de Swapy Tokens. En el presale se aceptarán ofertas con una cantidad mínima de 33 Ethers, mientras que en el crowdsale será aceptada cualquier cantidad válida.",
+    "answer6a": "Las instrucciones serán divulgadas a través de nuestra Newsletter, Canal en Slack y sitio web, simultáneamente. Asegúrese de que todos estos canales están alineados con la misma información antes de realizar la transferencia. En caso de duda, hable directamente con nosotros. El método indicado para almacenar sus Ethers antes de hacer el cambio por Swapy Tokens es el MYETHERWALLET.COM. Por favor, introduzca la letra a la letra en su navegador. No enviamos enlaces a través de nuestros medios de comunicación para proceder con la compra de tokens.",
+    "answer7": "Sí. Ofrecemos descuentos en la fase de presionar como sigue:",
+    "answer7a": "Descuento del 50% hasta vender una cantidad de 5000 Ethers.",
+    "answer7b": "Descuento del 25% hasta vender una cantidad de 30000 Ethers.",
+    "answer7c": "Descuento del 10% hasta vender una cantidad de 90000 Ethers.",
+    "answer7d": "Descuento del 5% hasta vender una cantidad de 180000 Ethers.",
+    "answer7e": "¿Te interesó? Suscríbase a nuestro boletín de noticias para actualizaciones.",
+    "answer8": "Swapy Tokens sólo se pueden vender al final de la fase de crowdsale. A partir de ahí, los tokens pueden ser vendidos cuando sea el deseo del comprador, siempre que exista demanda para la moneda. La venta podrá realizarse en los intercambios de criptomoedas indicados por el equipo del Swapy Network. Para ello, será necesario inscribirse en alguno de los intercambios indicados para realizar el cambio. Cada cambio tiene una tarifa específica para este tipo de servicio.",
+    "answer9": "No. Los tokens no son acciones. Es decir, quien compra un token podrá utilizar en el Swapy Network, revender o almacenar las criptomedas. Los propietarios de Swapy Token no tienen derechos participativos en la empresa, sólo los derechos de uso del token.",
+    "answer10": "Todos los servicios ofrecidos en el Swapy Network serán accesibles exclusivamente a través de Swapy Tokens, cada uno con su valor específico. Intercambiando directamente con nosotros, durante las fases de presale y crowdsale, usted tendrá acceso al precio predeterminado de lanzamiento. Después del término del crowdsale, el valor del token está sujeto a variaciones de acuerdo con la demanda."
+
+  },
+  "column": {
+    "question1": "1. ¿Qué es un ICO?",
+    "question2": "2. ¿Qué es un Swapy Token?",
+    "question3": "3. ¿Qué es Swapy Network?",
+    "question4": "4. ¿Es Swapy Token una inversión?",
+    "question5": "5. ¿ICO versus IPO: ¿Cuál es la diferencia entre ellos?",
+    "question6": "6. ¿Cómo puedo comprar Swapy Tokens?",
+    "question7": "7. ¿Cuál es la ventaja de comprar en preventa",
+    "question8": "8. ¿Si compro Swapy Tokens, ¿cuándo puedo venderlos?",
+    "question9": "9. ¿Los Tokens son acciones de la compañía?",
+    "question10": "10. ¿Por qué debo comprar Swapy Tokens?"
+  }
+
+}
