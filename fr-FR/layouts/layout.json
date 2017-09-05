@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "how": "Comment cela fonctionne",
+    "team": "Équipe",
+    "contact": "Contactez-nous",
+    "faq": "FAQ",
+    "token": "Token",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "joinSlack": "Rejoignez-nous dans Slack"
+  },
+  "footer2": {
+    "compliance": "Nous sommes obsédés par la conformité: nous avons des conseils juridiques aux États-Unis (Ryan David Williams), au Brésil (HCO Law) et à Cryptovalley (MME). Nous prenons soin de cartographier les risques juridiques et nous protégeons légalement avant de propose la Swapy Network."
+  },
+  "subscribe": {
+    "call": "Inscrivez-vous pour les mises à jour",
+    "action": "Inscrivez-vous ",
+    "enterEmail": "Entrez votre adresse email"
+  }
+}
