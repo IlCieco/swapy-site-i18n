@@ -11,6 +11,7 @@
     "luisTitle": "Full-Stack Developer",
     "icaroTitle": "Full-Stack Developer",
     "wagnerTitle": "Marketing Analyst",
+    "brunno-nevesTitle": "CFO",
     "edDescription": "CEO & Co-founder. Graduated in Business Administration at UFPE. Project Management course at Harvard. Innovation course at Stanford and Draper University. Former Google employee and serial entrepreneur.",
     "tulioDescription": "CTO & Co-founder. Master student in Computer Science (UFMG). Graduated in Computer Engineering (CEFET-MG). Exchange student at The College of New Jersey. Innovation course at Stanford University.",
     "plinioDescription": "Lead Designer & Co-founder. Graduated in Design at Universidade Federal de Minas Gerais, UFMG. Studied Design at Karelia University of Applied Sciences, Finland. Graduated as Electronics Technician at CEFET-MG.",
@@ -20,7 +21,8 @@
     "adrielDescription": "Graduated as Computing Technician at CEFET-MG. Skills Without Borders exchange student at Bournemouth and Poole College, United Kingdom.",
     "luisDescription": "Graduating in Mechanical Engineering at (UFMG). Technician in Computer Networks by CEFET-MG. Passionate about web development and entrepreneurial ideas.",
     "icaroDescription": "Graduating in Information Systems at UFMG. Technician in Computer Networks by CEFET-MG. Passionate about entrepreneurship and software development.",
-    "wagnerDescription": "Graduated in Marketing at Mount Royal University (Canada) and Communication at UFPE (Brazil). Wagner used to work for multinational companies, and now, he is currently helping our company with his marketing background."
+    "wagnerDescription": "Graduated in Marketing at Mount Royal University (Canada) and Communication at UFPE (Brazil). Wagner used to work for multinational companies, and now, he is currently helping our company with his marketing background.",
+    "brunno-nevesDescription": "Bachelor in Economic Sciences (PUC-SP), freelance trader, multitask entrepreneur and fintech enthusiast. Former Facebook employee. He has experience working in the financial market."
   },
   "investors": {
     "title": "Investors"

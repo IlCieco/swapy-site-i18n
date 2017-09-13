@@ -11,6 +11,7 @@
     "luisTitle": "フルスタック開発者",
     "icaroTitle": "フルスタック開発者",
     "wagnerTitle": "Marketing Analyst",
+    "brunno-nevesTitle": "CFO",
     "edDescription": "CEO & 共同創設者：UFPEビジネス・アドミニストレーションを卒業。ハーバード大学マネジメント・コース修了。スタンフォード大学及びドレイパー大学イノベーション・コース修了。Googleを退職後、起業家となる。",
     "tulioDescription": "CTO & 共同創設者：UFMGコンピューター・サイエンス修士課程。CEFET-MGにてコンピューター・エンジニアリング卒業。ニュージャージー大学の交換学生。スタンフォード大学イノベーション・コース修了。",
     "plinioDescription": "リード・デザイナー & 共同創立者。UFMGデザイン卒業。Kerelia University of Applied Sciences（フィンランド）にてデザインを修学。CEFET-MGエレクトロニクス技術者として卒業。",
@@ -20,7 +21,8 @@
     "adrielDescription": "CEFET-MGにてコンピューター・エンジニアリング卒業。英国Bournemouth and Poole Collegeでの交換留学を経て、国境を超えたスキルを学ぶ。",
     "luisDescription": "CEFET-MGにてメカニカル・エンジニアリング卒業。CEFET-MGにてコンピューター・ネットワーク技術者。Web開発と起業アイデアに情熱を注ぐ。",
     "icaroDescription": "UFMGにて情報システム卒業。CEFET-MGにてコンピューター・ネットワーク技術者。ソフトウェア開発と起業アイデアに情熱を注ぐ。",
-    "wagnerDescription": "Graduated in Marketing at Mount Royal University (Canada) and Communication at UFPE (Brazil). Wagner used to work for multinational companies, and now, he is currently helping our company with his marketing background."
+    "wagnerDescription": "Graduated in Marketing at Mount Royal University (Canada) and Communication at UFPE (Brazil). Wagner used to work for multinational companies, and now, he is currently helping our company with his marketing background.",
+    "brunno-nevesDescription": "Bachelor in Economic Sciences (PUC-SP), freelance trader, multitask entrepreneur and fintech enthusiast. Former Facebook employee. He has experience working in the financial market."
   },
   "investors": {
     "title": "投資家"

@@ -11,6 +11,7 @@
     "luisTitle": "Full-Stack Developer",
     "icaroTitle": "Full-Stack Developer",
     "wagnerTitle": "Analista de Marketing",
+    "brunno-nevesTitle": "CFO",
     "edDescription": "CEO & Co-founder. Graduado em Administração de Empresas (UFPE). Curso de Gerência de Projetos em Harvard. Curso de Inovação em Stanford e na Draper University. Ex-funcionário da Google e empreendedor serial.",
     "tulioDescription": "CTO & Co-founder. Graduado em Engenharia de Computação (CEFET-MG). Defende seu mestrado em Ciência da Computação (UFMG). Intercâmbio de Empreendedorismo e Computação no The College of New Jersey. Curso de Inovação em Stanford University.",
     "plinioDescription": "Lead Designer & Co-founder. Graduado em Design na Universidade Federal de Minas Gerais (UFMG). Intercâmbio na Karelia University of Applied Sciences, Finlândia. Técnico em Eletrônica pelo CEFET-MG.",
@@ -20,7 +21,8 @@
     "adrielDescription": "Técnico em Computação pelo CEFET-MG. Intercâmbio na Bournemouth and Poole College, Reino Unido pelo programa Skills Without Borders.",
     "luisDescription": "Graduando em Engenharia Mecânica (UFMG). Técnico em Redes de Computadores pelo CEFET-MG. Gosto por desenvolvimento web e ideias empreendedoras.",
     "icaroDescription": "Graduando em Sistemas de Informação pela UFMG. Técnico em Redes de Computadores pelo CEFET-MG. Apaixonado por empreendedorismo e desenvolvimento de software.",
-    "wagnerDescription": "Graduado em Marketing na Mount Royal University (Canadá) e Comunicação na UFPE (Brasil). Wagner costumava trabalhar para empresas multinacionais, e agora, ele está atualmente ajudando a nossa empresa com sua ampla experiência em marketing."
+    "wagnerDescription": "Graduado em Marketing na Mount Royal University (Canadá) e Comunicação na UFPE (Brasil). Wagner costumava trabalhar para empresas multinacionais, e agora, ele está atualmente ajudando a nossa empresa com sua ampla experiência em marketing.",
+    "brunno-nevesDescription": "Bacharel em Ciências Econômicas (PUC-SP), trader autônomo, empreendedor multitasking e entusiasta de fintechs. Trabalhou no Facebook e no mercado financeiro."
   },
   "investors": {
     "title": "Investidores"
