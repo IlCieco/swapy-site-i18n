@@ -11,6 +11,7 @@
     "luisTitle": "Full-Stack Developer",
     "icaroTitle": "Full-Stack Developer",
     "wagnerTitle": "Analista de Marketing",
+    "brunno-nevesTitle": "CFO",
     "edDescription": "Director Ejecutivo y Co-fundador. Graduado en Administración de Empresas en UFPE Curso de Gestión de Proyectos en Harvard Curso de Innovación en Stanford y Draper University Ex Empleo de Google y empresario en serie.",
     "tulioDescription": "CTO y Co-fundador. Defiende su Maestría en Ciencia de la Computación (UFMG). Graduado en Ingeniería de Computación (CEFET-MG). Intercambio de estudiantes en el Colegio de Nueva Jersey Curso de Innovación en la Universidad de Stanford.",
     "plinioDescription": "Graduado en Diseño en la Universidad Federal de Minas Gerais, UFMG. Estudiado en Diseño en la Universidad de Ciencias Aplicadas de Karelia, Finlandia. Graduado como Técnico en Electrónica en el CEFET-MG.",
@@ -19,7 +20,9 @@
     "biancaDescription": "Graduado en Administración de Empresas en la Universidad Católica de Pernambuco, PUC-PE Experiencia trabajando con finanzas en una gran empresa multinacional.",
     "adrielDescription": "Graduado como Técnico en Informática en CEFET-MG. Habilidades sin fronteras intercambia estudiantes en Bournemouth & Poole College, Reino Unido.",
     "luisDescription": "Graduando en Ingeniería Mecánica (UFMG). Técnico en Redes de Computadoras por el CEFET-MG. Me gusta el desarrollo web y las ideas emprendedoras.",
-    "icaroDescription": "Graduado en Marketing en la Universidad de Mount Royal (Canadá) y Comunicación en la UFPE (Brasil). Wagner solía trabajar para compañías multinacionales, y ahora, está ayudando a nuestra compañía con su  gran experiencia de marketing."
+    "icaroDescription": "Graduado en Sistemas de Información de la UFMG. Técnico en Redes de Computadores por CEFET-MG. Apasionado por el emprendimiento y el desarrollo de software.",
+    "wagnerDescription": "Graduado en Marketing en la Universidad Mount Royal (Canadá) y Comunicación en la UFPE (Brasil). Wagner solía trabajar para compañías multinacionales, y ahora, actualmente está ayudando a nuestra compañía con su experiencia de mercadeo.",
+    "brunno-nevesDescription": "Licenciado en Ciencias Económicas (PUC-SP), Trader freelance, empresario multitarea y entusiasta de fintech. Ex empleado de Facebook. Tiene experiencia trabajando en el mercado financiero."
   },
   "investors": {
     "title": "Inversores"
