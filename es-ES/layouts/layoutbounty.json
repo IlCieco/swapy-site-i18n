@@ -1,0 +1,12 @@
+{
+  "navbar": {
+    "link": "Swapy Network Official Webpage"
+  },
+  "footer1": {
+    "title": "Bounty Program",
+    "text": "Are you interested in joining the Swapy Network Bounty Program? Please, submit your application to the following form:",
+    "btnjoin": "Join",
+    "btnrules": "Rules",
+    "email": "bounty@swapy.network"
+  }
+}

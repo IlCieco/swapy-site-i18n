@@ -1,0 +1,38 @@
+{
+  "section-top": {
+    "headline": "Bounty Program",
+    "value": "600,000",
+    "subtitle": "Tokens Available",
+    "btnjoin": "Join",
+    "btnrules": "Rules"
+  },
+  "section1": {
+    "headline": "Tokens <b>distribution</b>",
+    "box1title": "5%",
+    "box1subtitle": "Commission",
+    "box1bounty": "Ambassador",
+    "box2title": "120,000",
+    "box2subtitle": "Tokens",
+    "box2bounty": "Mention in Events",
+    "box3title": "99,600",
+    "box3subtitle": "Tokens",
+    "box3bounty": "Bitcoin Talk",
+    "box4title": "99,600",
+    "box4subtitle": "Tokens",
+    "box4bounty": "Social Media",
+    "box5title": "99,600",
+    "box5subtitle": "Tokens",
+    "box5bounty": "Original Content",
+    "box6title": "99,600",
+    "box6subtitle": "Tokens",
+    "box6bounty": "Bug Fixing",
+    "box7title": "99,600",
+    "box7subtitle": "Tokens",
+    "box7bounty": "Translation",
+    "box8title": "99,600",
+    "box8subtitle": "Tokens",
+    "box8bounty": "Extra"
+
+  }
+
+}
