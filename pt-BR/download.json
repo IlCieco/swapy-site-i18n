@@ -1,0 +1,23 @@
+{
+  "top": {
+    "headline": "Swapy Exchange <b>Public Alpha</b>",
+    "button": "Download"
+  },
+
+  "dwl1": {
+    "headline": "<b>Connect Money Markets</b>",
+    "text": "<b>Swapy Exchange</b> uses <b>smartcontracts</b> and the <b>blockchain</b> to make credit cheaper and better around the world. It connects international investors from countries where the interest rates are lower to credit companies in countries where the interest rates are much higher, providing better returns to the first and lower cost capital for the latter."
+  },
+
+   "dwl3": {
+    "left1": "Swapy Exchange Public Alpha uses<b> Ethereum Ropsten Testnet</b> for its transactions.",
+    "left2": "In its <b>Alpha version</b> we do not use valid Ethers.",
+    "right1": "Report <b>Bugs</b> and errors",
+    "rightbtn": "Report"
+  },
+
+  "dwl4": {
+    "headline": "Swapy Protocol is",
+    "subtitle": "<b>Open Source</b>"
+  }
+}

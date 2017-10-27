@@ -33,6 +33,9 @@
     "box8subtitle": "Tokens",
     "box8bounty": "Extra"
 
+  },
+  "navbar": {
+    "link": "Swapy Network Official Webpage",
+    "href": "http://www.swapy.network"
   }
-
 }
