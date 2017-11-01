@@ -1,21 +1,13 @@
 {
-  "navbar": {
-    "how": "Como funciona",
-    "team": "Equipe",
-    "contact": "Fale conosco",
-    "faq": "FAQ",
-    "token": "Token",
-    "whitepaper": "Whitepaper"
-  },
   "footer": {
-    "joinSlack": "Junte-se a nós no Slack"
+    "joinSlack": "Join us on Slack"
   },
   "footer2": {
-    "compliance": "Somos obcecados por conformidade: Contamos com conselho legal nos EUA (Ryan David Williams), no Brasil (HCO Law) e assessoria jurídica de uma firma de advocacia premier em Zug / Suíça. Tomamos o cuidado de mapear os riscos legais e nos proteger legalmente antes de propor o Swapy Network."
-  },
-  "subscribe": {
-    "call": "Inscreva-se para atualizações",
-    "action": "Inscreva-se",
-    "enterEmail": "Digite seu e-mail"
-  }
+    "compliance": "We are obsessed with compliance: We have legal counsel in the USA (Ryan David Williams), Brazil (HCO Law) and legal advice from a Premier Law firm in Zug/Switzerland. We take care of mapping the legal risks and protecting ourselves legally before proposing Swapy Network."
+   },
+   "subscribe": {
+     "call": "Subscribe for updates",
+     "action": "Subscribe",
+     "enterEmail": "Enter your Email"
+   }
 }
