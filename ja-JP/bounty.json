@@ -1,23 +1,23 @@
 {
   "section-top": {
     "headline": "Bounty Program",
-    "value": "600,000",
+    "value": "600,000+",
     "subtitle": "Tokens Available",
     "btnjoin": "Join",
     "btnrules": "Rules"
   },
   "section1": {
     "headline": "Tokens <b>distribution</b>",
-    "box1title": "5%",
-    "box1subtitle": "Commission",
+    "box1title": "120,000",
+    "box1subtitle": "Tokens *",
     "box1bounty": "Ambassador",
-    "box2title": "120,000",
+    "box2title": "73,800",
     "box2subtitle": "Tokens",
     "box2bounty": "Mention in Events",
     "box3title": "99,600",
     "box3subtitle": "Tokens",
     "box3bounty": "Bitcoin Talk",
-    "box4title": "99,600",
+    "box4title": "49,800",
     "box4subtitle": "Tokens",
     "box4bounty": "Social Media",
     "box5title": "99,600",
@@ -26,17 +26,13 @@
     "box6title": "99,600",
     "box6subtitle": "Tokens",
     "box6bounty": "Bug Fixing",
-    "box7title": "99,600",
+    "box7title": "30,000",
     "box7subtitle": "Tokens",
     "box7bounty": "Translation",
-    "box8title": "99,600",
+    "box8title": "27,600",
     "box8subtitle": "Tokens",
-    "box8bounty": "Extra"
+    "box8bounty": "Extra",
+    "note": "* Ambassadors: You will receive <b>5% commission</b> (in Swapy Tokens) based on the amount contributed by your referrals on our pre-sale. See more details in Rules."
 
-  },
-  "navbar": {
-    "link": "Swapy Network Official Webpage",
-    "href": "http://www.swapy.network"
   }
-
 }

@@ -1,7 +1,9 @@
 {
   "navbar": {
-    "link": "Swapy Network Bounty Program",
-    "href": "/"
+    "swapypage": "Swapy Network ICO",
+    "whitepaper": "Whitepaper",
+    "slack": "Slack",
+    "twitter": "Twitter"
   },
   "footer1": {
     "title": "Bounty Program",
