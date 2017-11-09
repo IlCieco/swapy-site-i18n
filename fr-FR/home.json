@@ -34,7 +34,7 @@
     "benefit3": "Identité financière <b>valable dans le monde entier</b>",
     "benefit4": "<b>Les individus</b> ont le droit et <b>tirent profit de leurs propres données</b>",
     "benefit5": "<b>Base de données financière à faible coût</b> et facilement accessible",
-    "benefit6": "<b>Des obstacles d'entrée plus bas</b> pour les entreprises" 
+    "benefit6": "<b>Des obstacles d'entrée plus bas</b> pour les entreprises"
   },
   "section5": {
     "headline": "<b>Swapy Network</b> est une <b>plate-forme décentralisée</b> qui cherche à fournir un <b>accès universel au crédit.</b>"
@@ -100,5 +100,8 @@
   },
   "section8": {
     "headline": "Affaires"
+  },
+  "investors": {
+    "title": "Investisseurs"
   }
 }

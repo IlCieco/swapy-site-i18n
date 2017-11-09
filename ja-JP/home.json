@@ -34,7 +34,7 @@
     "benefit3": "Financial identity <b>valid worldwide</b>",
     "benefit4": "<b>Individuals</b> have the rights and <b>reap the value of their own data</b>",
     "benefit5": "Easily accessible and <b>lower cost financial data source</b>",
-    "benefit6": "<b>Lower entry barriers</b> for companies" 
+    "benefit6": "<b>Lower entry barriers</b> for companies"
   },
   "section5": {
     "headline": "<b>Swapy Network</b>は、<b>クレジットを全ての人へ</b>を目指す<b>分散型プラットフォーム</b>です。"
@@ -100,5 +100,8 @@
   },
   "section8": {
     "headline": "プレス"
+  },
+  "investors": {
+    "title": "投資家"
   }
 }

@@ -1,8 +1,8 @@
 {
   "section1": {
     "headline": "<b>The Solution</b> for <b>Universal Access to Credit</b>",
-    "button1": "Download Public Alpha",
-    "button2": "Join our Whitelist"
+    "button1": "Whitelist",
+    "button2": "Newsletter"
   },
   "section2": {
     "headline": "<b>Swapy ICO</b> Countdown",
@@ -100,5 +100,8 @@
   },
   "section8": {
     "headline": "Press"
+  },
+  "investors": {
+    "title": "Early Investors"
   }
 }
