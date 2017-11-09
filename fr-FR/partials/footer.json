@@ -1,12 +1,4 @@
 {
-  "navbar": {
-    "how": "Como funciona",
-    "team": "Equipe",
-    "contact": "Fale conosco",
-    "faq": "FAQ",
-    "token": "Token",
-    "whitepaper": "Whitepaper"
-  },
   "footer": {
     "joinSlack": "Junte-se a nós no Slack"
   },
