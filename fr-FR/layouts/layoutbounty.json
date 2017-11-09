@@ -1,11 +1,11 @@
 {
-  "navbar": {
+  "navbar-bounty": {
     "swapypage": "Swapy Network ICO",
     "whitepaper": "Whitepaper",
     "slack": "Slack",
     "twitter": "Twitter"
   },
-  "footer1": {
+  "footer-bounty": {
     "title": "Bounty Program",
     "text": "Are you interested in joining the Swapy Network Bounty Program? Please, submit your application to the following form:",
     "btnjoin": "Join",

@@ -1,12 +1,12 @@
 {
-  "section-top": {
+  "section-top-bounty": {
     "headline": "Bounty Program",
     "value": "600,000+",
     "subtitle": "Tokens Available",
     "btnjoin": "Join",
     "btnrules": "Rules"
   },
-  "section1": {
+  "section1-bounty": {
     "headline": "Tokens <b>distribution</b>",
     "box1title": "120,000",
     "box1subtitle": "Tokens *",
