@@ -7,9 +7,9 @@
     "plinioTitle": "Lead Designer",
     "victorTitle": "Analyste financier",
     "biancaTitle": "Analyste financier",
-    "adrielTitle": "Full-Stack Developer",
-    "luisTitle": "Full-Stack Developer",
-    "icaroTitle": "Full-Stack Developer",
+    "adrielTitle": "D’App Developer",
+    "luisTitle": "Solidity Developer",
+    "icaroTitle": "D’App Developer",
     "wagnerTitle": "Analyste marketing",
     "brunno-nevesTitle": "CFO",
     "edDescription": "CEO & Co-founder. Diplômé en administration des affaires (UFPE). Cours de gestion de projet de Harvard. Cours d'innovation à l'Université Stanford et Draper. Ancien employé de Google et entrepreneur en série.",
@@ -25,7 +25,7 @@
     "brunno-nevesDescription": "Baccalauréat en sciences économiques (PUC-SP), trader indépendant, entrepreneur multitâche et passionné de Fintech. Ancien collaborateur de Facebook. Il a de l'expérience dans le marché financier."
   },
   "investors": {
-    "title": "Investisseurs"
+    "title": "Investisseurs initiaux"
   },
   "mentors": {
     "title": "Advisors"

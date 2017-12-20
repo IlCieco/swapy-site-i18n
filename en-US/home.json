@@ -1,34 +1,25 @@
 {
-  "section1": {
+  "top": {
     "headline": "<b>The Solution</b> for <b>Universal Access to Credit</b>",
     "button1": "Whitelist",
     "button2": "Newsletter",
-    "footnote": "The sale dates will be announced soon!"
+    "footnote": "The sale dates will be announced soon!",
+    "endorsed": "Endorsed by <b>Tim Draper</b> & <b>Don Tapscott</b>"
   },
-  "section2": {
-    "headline": "<b>Swapy ICO</b> Countdown",
-    "presale": "Pre-sale through SAFTs starts on October 20th",
-    "crowdsale": "Crowdsale starts on <b>November 20th, 2017</b>",
-    "days": "Days",
-    "hours": "Hours",
-    "minutes": "Minutes",
-    "seconds": "Seconds"
+  "investors": {
+    "title": "Early Investors"
   },
-  "section3": {
-    "headline": "Subscribe for updates",
-    "inputPlaceholder": "Enter your Email",
-    "buttonText": "Subscribe"
-  },
-  "section4": {
+  "purpose": {
     "headline": "This is <b>our dream for a future</b> enabled by <b>Swapy Network</b>: <b>A world of efficient credit markets</b>, with no barriers to entry for new players, where consumers have the power and reap the benefits of <b>Universal Access to Credit.</b>",
     "exchange": "Swapy Exchange",
     "exchangeDescription": "Swapy Exchange connects international investors from countries where the interest rates are lower to credit companies in countries where the interest rates are much higher, providing better returns to the first and lower cost capital for the latter.",
     "finId": "Swapy Financial ID",
     "finIdDescription": "Swapy Financial ID empower individuals, giving them the right to a worldwide financial identity that is valid anywhere in the world at anytime.",
     "dataMarket": "Swapy DataMarket",
-    "dataMarketDescription": "Swapy DataMarket transforms user's financial data into value for the data owners. Now, individuals will hold their own data and choose how much tokens they receive in exchange for it, when they want to share, and for whom."
+    "dataMarketDescription": "Swapy DataMarket transforms user's financial data into value for the data owners. Now, individuals will hold their own data and choose how much tokens they receive in exchange for it, when they want to share, and for whom.",
+    "title-end": "<b>Swapy Network</b> is a <b>decentralized platform</b> that aims to provide <b>Universal Access to Credit.</b>"
   },
-  "section4a": {
+  "benefits": {
     "headline": "Swapy Network <b>Benefits</b>",
     "benefit1": "<b>Reduced cost of capital</b> on emerging nations",
     "benefit2": "<b>Better returns</b> for lenders",
@@ -37,72 +28,89 @@
     "benefit5": "Easily accessible and <b>lower cost financial data source</b>",
     "benefit6": "<b>Lower entry barriers</b> for companies"
   },
-  "section5": {
-    "headline": "<b>Swapy Network</b> is a <b>decentralized platform</b> that aims to provide <b>Universal Access to Credit.</b>"
+  "tge-details": {
+    "headline": "TGE Details",
+    "table-left1": "Symbol",
+    "table-right1": "SWAPY",
+    "table-left2": "Token Type",
+    "table-right2": "ERC20",
+    "table-left3": "Total supply",
+    "table-right3": "100,000,000 SWAPY Tokens",
+    "table-left4": "TGE price",
+    "table-right4": "USD$0.6 = 1 SWAPY Token",
+    "table-left5": "Hard Cap",
+    "table-right5": "USD$ 30,000,000",
+    "table-left6": "Minimum Contribution",
+    "table-right6": "USD$1.00",
+    "table-left7": "Accepting",
+    "table-right7": "ETH only",
+    "graph-title": "Distribution",
+    "label1": "Token Offer",
+    "label2": "Company’s Endowment",
+    "label3": "Partners & Advisors",
+    "label4": "Team & Early Investors",
+    "label5": "External Developers Fund"
   },
-  "section-roadmap": {
+  "open-source": {
+    "text1": "Swapy Protocol is",
+    "text2": "Open Source"
+  },
+  "highlights": {
+    "headline": "Highlights",
+    "highlight1": "TOP 3 Singularity University Global Grand Chanllenge Awards (Prosperity Track) August 2017",
+    "highlight2": "TOP 5 Coindesk Consensus (Proof-of-Work) startup Competition May 2017",
+    "highlight3": "Top 10 Startups Selected to Pitch at G-Startup Worldwide at GMIC São Paulo - August 2016",
+    "highlight4": "Singularity University Exponential Finance Innovation Lab Exhibitor 2016 / 2017",
+    "highlight5": "20 startups selected to “Deceleration” program out of 412 in Menorca, Spain June 2016",
+    "highlight6": "8 startups selected to BBooster Week Canarias competition June 2017"
+  },
+  "videos": {
+    "headline": "Videos",
+    "label1": "ICO Summit Zurich 2017 Swapy Pitch",
+    "label2": "Welcome to Swapy Network",
+    "label3": "Understand Swapy Network Services and System",
+    "label4": "Meet Edmilson Rodrigues - CEO"
+  },
+  "roadmap": {
     "headline": "Swapy <b>Roadmap</b>",
-    "may2017": "May 2017",
-    "may2017-1": "TOP 5 Coindesk Consensus Pitch Competition",
-    "may2017-2": "Consulting and Advisory Partnerships",
-    "jun2017": "June 2017",
-    "jun2017-1": "Singularity University Exponential Finance Innovation Lab Exhibitor",
-    "jun2017-2": "BBooster Week Canarias",
-    "jul2017": "July 2017",
-    "jul2017-1": "Swapy Exchange Private Alpha Release",
-    "jul2017-2": "Consulting and Advisory Partnerships",
-    "jul2017-3": "Hiring specialized law firms in Brazil and USA",
-    "aug2017": "August 2017",
-    "aug2017-1": "TOP 3 Singularity University Global Grand Chanllenge Awards (Prosperity Track)",
-    "aug2017-2": "Hiring specialized law firm in Switzerland",
-    "sep2017": "September 2017",
-    "sep2017-1": "ICO Summit Zurich Silver Sponsor",
-    "sep2017-2": "Finance 2.0 - Crypto / Zurich",
-    "sep2017-3": "Incorporation in Zug, Switzerland",
-    "oct2017": "October 2017",
-    "oct2017-1": "Swapy Exchange Public Alpha Release",
-    "oct2017-2": "Consulting and Advisory Partnerships",
-    "oct2017-3": "ICO Presale",
-    "nov2017": "November 2017",
-    "nov2017-1": "ICO Crowdsale",
-    "dec2017": "December 2017",
-    "dec2017-1": "Hiring to grow",
-    "jan2018": "January 2018",
-    "jan2018-1": "Swapy Fin ID + DataMarket Prototypes",
-    "fev2018": "February 2018",
-    "fev2018-1": "Swapy Exchange Private Beta",
-    "mar2018": "March 2018",
-    "mar2018-1": "Swapy Fin ID + DataMarket Private Alpha",
-    "mar2018-2": "Swapy Exchange Public Beta",
-    "apr2018": "April 2018",
-    "apr2018-1": "Swapy Fin ID + DataMarket Public Alpha",
-    "may2018": "May 2018",
-    "may2018-1": "Swapy Exchange 1.0",
-    "jun2018": "June 2018",
-    "jun2018-1": "Swapy Fin ID + DataMarket Public Beta - mainnet",
-    "jul2018": "July 2018",
-    "jul2018-1": "Swapy Fin ID + Swapy DataMarket 1.0",
-    "aug2018": "August 2018",
-    "aug2018-1": "Swapy Fin ID + Swapy DataMarket 1.0"
+    "title1": "Q3 2017",
+    "1p1": "The Swapy’s <b>software development has started</b> since July 1st, 2017.",
+    "1p2": "On July 31st, we released our <b>Swapy Exchange private alpha</b> as an preview containing the fund raising contracts.",
+    "title2": "Q4 2017",
+    "2p1": "On October 10th, we released <b>Swapy Exchange public alpha</b> on Ropsten test net, and <b>open-sourced our protocol</b>.",
+    "2p2": "Since then we are developing side features for the fund raising flow, auditing our code base and removing the dependency of a centralized login service.",
+    "2p3": "By mid-december, we will be releasing an updated version of the <b>Swapy Exchange D’App</b>.",
+    "title3": "Q1 Starting after TGE",
+    "3p1": "<b>Swapy Financial ID public alpha</b> on test net providing identification and attestation to Swapy Exchange tokenized assets.",
+    "3p2": "<b>Swapy Data Market private alpha</b> on test net operating 1 to 1 data sales.",
+    "title4": "Q2 Starting after TGE",
+    "4p1": "<b>Swapy Exchange</b> and <b>Swapy Financial ID private beta</b> on main net transacting real tokens.",
+    "4p2": "*Each credit company we are negotiating with will have their own timeline to start using the Swapy Exchange depending on the compliance process.",
+    "title5": "Q3 Starting after TGE",
+    "5p1": "<b>Swapy Exchange</b> and <b>Swapy Financial ID public beta</b> on main net. Public “Connect with Swapy ID” API available. Anyone can use for any purpose and transact real tokens.",
+    "5p2": "<b>Swapy Data Market on private beta</b> transacting real tokens and real data from Swapy Financial ID.",
+    "title6": "Q4 Starting after TGE",
+    "6p1": "<b>Swapy Data Market public beta</b> on main net.",
+    "6p2": "Swapy Exchange and Swapy Financial ID improvements.",
+    "6p3": "Planning the following year considering the <b>community surveys</b>."
   },
-  "section6": {
-    "headline": "<b>Token</b> Circular Economy"
+  "bounty": {
+    "headline": "<b>Bounty Program</b>",
+    "amount": "<b>600,000+</b>",
+    "text1": "Tokens Available",
+    "btn": "Find out more"
   },
-  "section7": {
-    "headline": "TGE <b>Details</b>",
-    "title1": "Swapy Token price",
-    "text1": "The price of Swapy Tokens at the time of the Token Launch will be pegged to the price of the Ether in the following proportion:",
-    "subtext1": "For security reasons, all investments will be received in Ethers",
-    "title2": "Initial Coin Offering Percentage",
-    "title3": "Economics",
-    "text3": "It is important to emphasize that for the Credit Dream´s stockholders (which includes founders, employees, investors and advisors) and for the partners, there will be a mandatory vesting period of 3 years, with 1 year cliff.",
-    "years": "years",
-    "year": "year"
-  },
-  "section8": {
-    "headline": "Press"
-  },
-  "investors": {
-    "title": "Early Investors"
+  "endorsements": {
+    "headline": "Swapy <b>Endorsements</b>",
+    "name1": "Tim Draper",
+    "quote1": "Very exciting to see Swapy Network going after cheaper credit and student loans. Clever solution.",
+    "btn1": "Tim Draper's Tweet about Swapy",
+    "name2": "Don Tapscott",
+    "quote2": "Blockchain will fundamentally change the way we access credit. Proud to be supporting Swapy Network as they make that vision a reality.",
+    "btn2": "Don Tapscott's Tweet about Swapy",
+    "title": "<b>Want to be part of the Credit Revolution?</b>",
+    "sub-title": "Talk with us and find out how",
+    "btn": "Talk with us"
   }
+  
 }
