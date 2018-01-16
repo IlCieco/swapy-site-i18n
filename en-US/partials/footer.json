@@ -1,13 +1,15 @@
 {
   "footer": {
-    "joinSlack": "Join us on Slack"
+    "joinTelegram": "Join us on Telegram",
+    "joinTelegramAnn": "Announcements-only",
+    "joinTelegramChat": "Open Chat",
+    "bounty": "Bounty Program"
   },
   "footer2": {
     "compliance": "We are obsessed with compliance: We have legal counsel in the USA (Ryan David Williams), Brazil (HCO Law) and legal advice from a Premier Law firm in Zug/Switzerland. We take care of mapping the legal risks and protecting ourselves legally before proposing Swapy Network."
    },
    "subscribe": {
      "call": "Subscribe for updates",
-     "action": "Subscribe",
-     "enterEmail": "Enter your Email"
+     "action": "Join our newsletter"
    }
 }

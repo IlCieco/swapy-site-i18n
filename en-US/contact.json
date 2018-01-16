@@ -1,13 +1,6 @@
 {
   "talk": {
     "question": "<b>Want to be part</b> of the <b>Credit Revolution?</b>",
-    "answer": "Talk with us and find out how",
-    "withUs": "Talk with us",
-    "success": "Your message was sent successfully!",
-    "error": "There was an error sending your message. Try again later.",
-    "send": "Send",
-    "name": "Name / Institution",
-    "email": "E-mail",
-    "message": "Type your message here..."
+    "answer": "Talk with us and find out how"
   }
 }

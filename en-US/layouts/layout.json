@@ -5,11 +5,7 @@
     "contact": "Talk with us",
     "faq": "FAQ",
     "download": "Try Alpha!",
-    "whitepaper": "Whitepaper"
-  },
-  "subscribe": {
-    "call": "Subscribe for updates",
-    "action": "Subscribe",
-    "enterEmail": "Enter your Email"
+    "whitepaper": "Whitepaper",
+    "bounty": "Bounty"
   }
 }
