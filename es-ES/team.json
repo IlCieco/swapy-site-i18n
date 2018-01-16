@@ -1,11 +1,18 @@
 {
   "team": {
     "title": "Equipo de Swapy",
+    "edName": "Edmilson Rodrigues",
+    "tulioName": "Túlio Braga",
+    "brunaName": "Bruna Fiori",
+    "plinioName": "Plinio Braga",
+    "adrielName": "Adriel Santos",
+    "luisName": "Luis Philipe",
+    "icaroName": "Ícaro Harry",
+    "brunnoName": "Brunno Neves",
     "edTitle": "CEO",
     "tulioTitle": "CTO",
     "brunaTitle": "COO",
     "plinioTitle": "Chief Design Officer",
-    "victorTitle": "Analista Financiero",
     "biancaTitle": "Analista Financiero",
     "adrielTitle": "D’App Developer",
     "luisTitle": "Solidity Developer",
@@ -16,18 +23,44 @@
     "tulioDescription": "CTO y Co-fundador. Defiende su Maestría en Ciencia de la Computación (UFMG). Graduado en Ingeniería de Computación (CEFET-MG). Intercambio de estudiantes en el Colegio de Nueva Jersey Curso de Innovación en la Universidad de Stanford.",
     "plinioDescription": "Chief Design Officer y Co-fundador. Graduado en Diseño en la Universidad Federal de Minas Gerais, UFMG. Estudiado en Diseño en la Universidad de Ciencias Aplicadas de Karelia, Finlandia. Graduado como Técnico en Electrónica en el CEFET-MG.",
     "brunaDescription": "Economista y Postgrado en Controlador, también es Consejera del Consejo Regional de Economía, fue profesora suplente de Economía en la Universidad Federal de Pernambuco (UFPE) por 2 años y 12 años de experiencia en comercio minorista, Gestión empresarial y consultoría financiera.",
-    "victorDescription": "Graduado en Administración de Empresas en la UFRPE Consultor Organizacional para INCUBATIC Curso de Estudiante de Project Management por VEDUCA Incentivo del ecosistema empresarial en Recife y Organizador de eventos enfocados en el empoderamiento empresarial.",
-    "biancaDescription": "Graduado en Administración de Empresas en la Universidad Católica de Pernambuco, PUC-PE Experiencia trabajando con finanzas en una gran empresa multinacional.",
     "adrielDescription": "Graduado como Técnico en Informática en CEFET-MG. Habilidades sin fronteras intercambia estudiantes en Bournemouth & Poole College, Reino Unido.",
     "luisDescription": "Graduando en Ingeniería Mecánica (UFMG). Técnico en Redes de Computadoras por el CEFET-MG. Me gusta el desarrollo web y las ideas emprendedoras.",
     "icaroDescription": "Graduado en Sistemas de Información de la UFMG. Técnico en Redes de Computadores por CEFET-MG. Apasionado por el emprendimiento y el desarrollo de software.",
-    "wagnerDescription": "Graduado en Marketing en la Universidad Mount Royal (Canadá) y Comunicación en la UFPE (Brasil). Wagner solía trabajar para compañías multinacionales, y ahora, actualmente está ayudando a nuestra compañía con su experiencia de mercadeo.",
     "brunno-nevesDescription": "Licenciado en Ciencias Económicas (PUC-SP), Trader freelance, empresario multitarea y entusiasta de fintech. Ex empleado de Facebook. Tiene experiencia trabajando en el mercado financiero."
   },
   "investors": {
     "title": "Inversores iniciales"
   },
   "mentors": {
-    "title": "Advisors"
+    "title": "Advisors",
+    "draperName": "Tim Draper",
+    "draperTitle": "Silicon Valley venture capitalist. Founder of Draper Associates, DFJ, and Draper University.",
+    "draperDesc": "Tim Draper is the founding partner of Draper Associates, DFJ and Draper University. Tim has been recognized as a leading supporter of entrepreneurship with numerous awards and honors. He was listed as #46 of the most outstanding Harvard alumni, #7 on the Forbes Midas List, #1 of the Most Networked Venture Capitalists by Always On, and #98 in Worth Magazine’s 100 Most Powerful People in Finance. Tim also received the World Entrepreneurship Forum’s \"Entrepreneur for the World\" in 2015.",
+    "donName": "Don Tapscott",
+    "donTitle": "CEO of The Tapscott Group. Senior Advisor, World Economic Forum Chancellor, Blockchain Research Institute",
+    "donDesc": "Don is ranked the 2nd most influential management thinker in the world by Thinkers50, and is one of the world’s leading authorities on the impact of technology on business and society. He has authored over 15 books. Don’s most recent and ambitious book was co-authored with his son, startup CEO and bitcoin governance expert Alex Tapscott. Blockchain Revolution: How the Technology Underlying Bitcoin is Changing Business, Money and the World.",
+    "orbanName": "David Orban",
+    "orbanTitle": "Founder & Managing Partner at Network Society Ventures",
+    "orbanDesc": "Early adopter of blockchain technologies and an active Bitcoin investor since 2010, he was the first to own Ether during the Ethereum launch in 2014. David is the Founder and a Trustee of Network Society ResearchHe also led the adoption of Bitcoin and blockchain in start-ups and is an advisor and investor in numerous blockchain companies and funds. Faculty/Advisor to the Singularity University, and investor in the SU Ventures. He has given over 100 keynote speeches including Alphabet, Cisco, Oracle, Ernst & Young, Accenture, and others.",
+    "ratanName": "Ratan Manehani Singh",
+    "ratanTitle": "Director at UpHold.com | Startup Advisor",
+    "ratanDesc": "Ratan has over 10 years of experience being an operator and venture investor. He has been instrumental in sourcing, evaluating and assisting management teams of prominent startups in the financial services, SaaS and eCommerce segments. Additionally, he has experience assisting Fortune 1000 companies including, T-Mobile, Advance Publications, Charter Communications, Asurion, Infocus, Circuit City and Vizio from a M&A and strategy/operations advisory perspective.",
+    "gustavoName": "Gustavo Penteado",
+    "gustavoTitle": "Marketing Manager | MBA Professor of Strategic Marketing, Marketing Planning and Retail Management at CEDEPE Business School",
+    "gustavoDesc": "15 years of experience in Management and Marketing. Specialist in business administration, marketing and advertising, photography and image. Master's degree in strategic marketing at UCES (Argentina). Guest professor at CEDEPE Business School and Consultant for several companies in different market segments."
+  },
+  "partners": {
+    "title": "Partners",
+    "mainContact": "Main Contact:",
+    "it2sSub": "Intelligence and Technology to Security",
+    "it2sPerson": "Leonardo Goldim",
+    "it2sLocation": "Santa Monica, CA - USA",
+    "goldimTitle": "Entrepreneur, Cloud Security Specialist, CEO of IT2S Group",
+    "goldimDescription": "Entrepreneur, coach and consultant in Information Security and Compliance. He has more than ten years of experience in Information Security, and is security specialist for the cloud environment. Professional pioneer in the field of cloud security in Latin America, he collaborated in the development of the main certifications in the area and is speaker in the main security events.",
+    "astarSub": "Blockchain, Smartcontracts",
+    "astarPerson": "Gabriel Aleixo",
+    "astarLocation": "São Paulo, SP - Brazil",
+    "aleixoTitle": "Blockchain Researcher & Business Developer",
+    "aleixoDescription": "Studied Economics and Business at FGV. He holds degrees in Innovation, Cryptography, Psychology and Philosophy of Mind from the University of Cambridge, UK. Member of the advisory board of Equilibrium Empresas in the field of Innovation. Co-creator of the Bitcoin in Portuguese webseries. Responsible for smartcontract's use cases and co-ideation. Blockchain researcher at ITS Rio."
   }
 }

@@ -1,13 +1,6 @@
 {
   "talk":{
     "question": "<b>¿Quieres ser parte</b> de la <b>Revolución del Crédito?</b>",
-    "answer": "Habla con nosotros y descubre cómo",
-    "withUs": "Habla con nosotros",
-    "success": "Su mensaje fue enviado con éxito!",
-    "error": "Se ha producido un error al enviar tu mensaje. Vuelve a intentarlo más tarde.",
-    "send": "Enviar",
-    "name": "Nombre/Institución",
-    "email": "E-mail",
-    "message": "Escriba su mensaje aquí..."
+    "answer": "Habla con nosotros y descubre cómo"
   }
 }

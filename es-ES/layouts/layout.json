@@ -6,16 +6,5 @@
      "faq": "FAQ",
      "download": "Try Alpha!",
      "whitepaper": "Whitepaper"
-   },
-   "footer": {
-     "joinSlack": "Únete a nosotros en Slack"
-   },
-   "footer2": {
-    "compliance": "Estamos obsesionados por conformidad: Contamos con un consejo legal en los Estados Unidos (Ryan David Williams), en Brasil (HCO Law) y y asesoramiento jurídico de una firma de abogados premier en Zug / Suiza. Tomamos el cuidado de mapear los riesgos legales y protegernos legalmente antes de proponer el Swapy Network."
-   },
-   "subscribe": {
-     "call": "Suscribirse para actualizaciones",
-     "action": "Suscribir",
-     "enterEmail": "Ingrese su correo electrónico"
    }
 }

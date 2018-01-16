@@ -6,16 +6,5 @@
     "faq": "FAQ",
     "download": "ダウンロード",
     "whitepaper": "ホワイトペーパー"
-  },
-  "footer": {
-    "joinSlack": "Slackに参加する"
-  },
-  "footer2": {
-    "compliance": "私たちは、コンプライアンス管理を徹底しています。米国（Ryan David Williams）、ブラジル（HCO Law）、ジュグ/スイスのプレミア・ロー・ファームからの法的助言を受けています。、Swapy Networkに関して法的リスクをマッピングし、法律遵守を貫いてまいります。"
-   },
-  "subscribe": {
-    "call": "お知らせメールを購読する",
-    "action": "購読する",
-    "enterEmail": "送信先メールアドレスを入力してください。"
   }
 }

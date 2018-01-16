@@ -2,14 +2,14 @@
   "navbar-bounty": {
     "swapypage": "Swapy Network ICO",
     "whitepaper": "Whitepaper",
-    "slack": "Slack",
+    "telegram": "Telegram",
     "twitter": "Twitter"
   },
   "footer-bounty": {
-    "title": "Bounty Program",
-    "text": "Are you interested in joining the Swapy Network Bounty Program? Please, submit your application to the following form:",
-    "btnjoin": "Join",
-    "btnrules": "Rules",
+    "title": "Programa de Bounty",
+    "text": "Você se interessa em juntar-se a nós no programa de bounties da Swapy Network? Por favor, cadastre-se através do seguinte formulário:",
+    "btnjoin": "Cadastrar",
+    "btnrules": "Regras",
     "email": "bounty@swapy.network"
   }
 }
