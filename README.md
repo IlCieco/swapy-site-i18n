@@ -22,4 +22,6 @@ To visualize the texts keys in the website, you can use the ['guide'](https://gi
 
 The text files follow the JSON pattern, so the structure is organized as a key/value pair. Only the value part should be translated. Keep the keys exactly the same.
 
+We suggest you to use a text editor such as [Sublime Text](https://www.sublimetext.com/) to edit the .json files. Any text editors may work too, including the very basic notepad or unix-like vi, vim, and nano.
+
 ### We appreciate your help to spread the word in as many languages as we can! Thanks!
