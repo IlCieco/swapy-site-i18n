@@ -1,7 +1,7 @@
 # Swapy Site i18n
 This project contains the files with Swapy' website texts in different languages. You are free to contribute to this project, helping us to translate our website or even improve the existing translations.
 
-For doubts: contact at swapy dot network
+For doubts: bounty at swapy dot network
 
 ## How to contribute?
 
