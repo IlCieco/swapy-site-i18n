@@ -1,13 +1,15 @@
 # Swapy Site i18n
 This project contains the files with Swapy' website texts in different languages. You are free to contribute to this project, helping us to translate our website or even improve the existing translations.
 
+For doubts: contact at swapy dot network
+
 ## How to contribute?
 
 #### If you are familiar with Github
 To contribute, you should fork this repository to your own account, create or improve the translations, and make a pull request containing the language and country the contribution stands for.
 
 #### If you are not familiar with Github
-To contribute, you should download the [en-US template](https://s3.us-east-2.amazonaws.com/swapynetwork/en-US.zip) and the [guide](https://s3.us-east-2.amazonaws.com/swapynetwork/guide.zip) containing the website screen capture indicating the text locations.
+To contribute, you should download the [en-US template](https://s3.us-east-2.amazonaws.com/swapynetwork/en-US.zip) and the [guide](https://s3.us-east-2.amazonaws.com/swapynetwork/guide.zip) containing the website screen capture indicating the text locations. Then, unzip the en-US.zip file, open the folder, and edit each .json file, one by one using you favorite text editor. The format is key:value in which you should only translate the value entry, keeping the key intact.
 
 ### Editing the .json files
 We suggest you to use a text editor such as [Sublime Text](https://www.sublimetext.com/) to edit the .json files. Any other text editors may work too, including the very basic notepad or unix-like vi, vim, and nano.
